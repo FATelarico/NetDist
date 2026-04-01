@@ -1,0 +1,27 @@
+list(df = structure(list(`2012` = c(41.06, 52.06, 6.88), `2013` = c(42.17, 
+51.28, 6.55), `2014` = c(39.94, 53.52, 6.54), `2015` = c(38.53, 
+55.12, 6.35), `2016` = c(41.33, 51.95, 6.72), `2017` = c(43.56, 
+49.74, 6.7), `2018` = c(43.2, 49.97, 6.83), `2019` = c(41.72, 
+50.96, 7.32), `2020` = c(41.42, 51.06, 7.52), `2021` = c(41.42, 
+50.76, 7.82), `2022` = c(43.02, 49.33, 7.65), `2023` = c(41.52, 
+50.58, 7.9)), class = "data.frame", row.names = c("true0", "unreported", 
+"missing")), kbl = structure("\\begin{table}[H]\n\\centering\n\\caption{\\label{tab:ZeroesStats}Detailed breakdown of the percentage of zeroes in the data matrices by 'type' of observation acros all years.}\n\\centering\n\\resizebox{\\ifdim\\width>\\linewidth\\linewidth\\else\\width\\fi}{!}{\n\\begin{tabular}[t]{l|c|c|c|c|c|c|c|c|c|c|c|c}\n\\hline\n\\multicolumn{1}{c|}{\\em{\\textbf{ }}} & \\multicolumn{4}{c|}{\\em{\\textbf{Period 1}}} & \\multicolumn{4}{c|}{\\em{\\textbf{Period 2}}} & \\multicolumn{4}{c}{\\em{\\textbf{Period 3}}} \\\\\n\\cline{2-5} \\cline{6-9} \\cline{10-13}\n  & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018 & 2019 & 2020 & 2021 & 2022 & 2023\\\\\n\\hline\n\\cellcolor{gray!10}{true0} & \\cellcolor{gray!10}{41} & \\cellcolor{gray!10}{42} & \\cellcolor{gray!10}{40} & \\cellcolor{gray!10}{39} & \\cellcolor{gray!10}{41} & \\cellcolor{gray!10}{44} & \\cellcolor{gray!10}{43} & \\cellcolor{gray!10}{42} & \\cellcolor{gray!10}{41} & \\cellcolor{gray!10}{41} & \\cellcolor{gray!10}{43} & \\cellcolor{gray!10}{42}\\\\\n\\hline\nunreported & 52 & 51 & 54 & 55 & 52 & 50 & 50 & 51 & 51 & 51 & 49 & 51\\\\\n\\hline\n\\cellcolor{gray!10}{missing} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{6} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{7} & \\cellcolor{gray!10}{8} & \\cellcolor{gray!10}{8} & \\cellcolor{gray!10}{8} & \\cellcolor{gray!10}{8}\\\\\n\\hline\n\\multicolumn{13}{l}{\\textsuperscript{*} Columns may not sum to 100 due to rounding}\\\\\n\\end{tabular}}\n\\end{table}", format = "latex", class = "knitr_kable", kable_meta = list(
+    tabular = "tabular", booktabs = FALSE, align = "lcccccccccccc", 
+    valign = "[t]", ncol = 13L, nrow = 4L, colnames = c(" ", 
+    "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", 
+    "2020", "2021", "2022", "2023"), rownames = c("", "true0", 
+    "unreported", "missing"), caption = "\\label{tab:ZeroesStats}Detailed breakdown of the percentage of zeroes in the data matrices by 'type' of observation acros all years.", 
+    caption.short = NULL, contents = c("  & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018 & 2019 & 2020 & 2021 & 2022 & 2023", 
+    "\\\\cellcolor\\{gray!10\\}\\{true0\\} & \\\\cellcolor\\{gray!10\\}\\{41\\} & \\\\cellcolor\\{gray!10\\}\\{42\\} & \\\\cellcolor\\{gray!10\\}\\{40\\} & \\\\cellcolor\\{gray!10\\}\\{39\\} & \\\\cellcolor\\{gray!10\\}\\{41\\} & \\\\cellcolor\\{gray!10\\}\\{44\\} & \\\\cellcolor\\{gray!10\\}\\{43\\} & \\\\cellcolor\\{gray!10\\}\\{42\\} & \\\\cellcolor\\{gray!10\\}\\{41\\} & \\\\cellcolor\\{gray!10\\}\\{41\\} & \\\\cellcolor\\{gray!10\\}\\{43\\} & \\\\cellcolor\\{gray!10\\}\\{42\\}", 
+    "unreported & 52 & 51 & 54 & 55 & 52 & 50 & 50 & 51 & 51 & 51 & 49 & 51", 
+    "\\\\cellcolor\\{gray!10\\}\\{missing\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{6\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{7\\} & \\\\cellcolor\\{gray!10\\}\\{8\\} & \\\\cellcolor\\{gray!10\\}\\{8\\} & \\\\cellcolor\\{gray!10\\}\\{8\\} & \\\\cellcolor\\{gray!10\\}\\{8\\}"
+    ), centering = TRUE, table_env = TRUE, align_vector = c("l", 
+    "c", "c", "c", "c", "c", "c", "c", "c", "c", "c", "c", "c"
+    ), align_vector_origin = c("l", "c", "c", "c", "c", "c", 
+    "c", "c", "c", "c", "c", "c", "c"), valign2 = "\\[t\\]", 
+    valign3 = "t", begin_tabular = "\\\\begin\\{tabular\\}\\[t\\]", 
+    end_tabular = "\\\\end\\{tabular\\}", duplicated_rows = FALSE, 
+    position_offset = 1, new_header_row = "\\\\multicolumn\\{1\\}\\{c|\\}\\{\\\\em\\{\\\\textbf\\{ \\}\\}\\} & \\\\multicolumn\\{4\\}\\{c|\\}\\{\\\\em\\{\\\\textbf\\{Period 1\\}\\}\\} & \\\\multicolumn\\{4\\}\\{c|\\}\\{\\\\em\\{\\\\textbf\\{Period 2\\}\\}\\} & \\\\multicolumn\\{4\\}\\{c\\}\\{\\\\em\\{\\\\textbf\\{Period 3\\}\\}\\} \\\\\\\\", 
+    header_df = list(structure(list(header = c(" ", "Period 1", 
+    "Period 2", "Period 3"), colspan = c(1, 4, 4, 4)), row.names = c(NA, 
+    -4L), class = "data.frame")))))

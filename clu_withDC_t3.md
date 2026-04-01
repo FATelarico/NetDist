@@ -1,0 +1,265 @@
+Cluster 1
+
+- Albania
+- Argentina
+- Azerbaijan
+- Belgium
+- Bulgaria
+- Bahrain
+- Brazil
+- Côte d’Ivoire
+- Germany
+- Denmark
+- Dominican Republic
+- Spain
+- Estonia
+- Finland
+- France
+- United Kingdom
+- Georgia
+- Ghana
+- Guinea
+- Croatia
+- Indonesia
+- India
+- Ireland
+- Iran
+- Italy
+- South Korea
+- Luxembourg
+- Morocco
+- Moldova
+- Mexico
+- Montenegro
+- Mauritius
+- Nigeria
+- New Zealand
+- Poland
+- Russia
+- Saudi Arabia
+- Singapore
+- Serbia
+- Slovenia
+- Thailand
+- United States
+
+
+Cluster 2
+
+- Aruba
+- Australia
+- Benin
+- Burkina Faso
+- Bosnia & Herzegovina
+- Belarus
+- Botswana
+- Cape Verde
+- NA
+- Czechia
+- Algeria
+- Guinea-Bissau
+- Hong Kong SAR China
+- Honduras
+- Iceland
+- Kyrgyzstan
+- Cambodia
+- NA
+- Sri Lanka
+- Lithuania
+- Mali
+- Myanmar (Burma)
+- Mongolia
+- Mozambique
+- Niger
+- Nepal
+- Pakistan
+- Panama
+- Philippines
+- Palestinian Territories
+- Senegal
+- El Salvador
+- NA
+- Togo
+- Trinidad & Tobago
+- Uruguay
+
+
+Cluster 3
+
+- United Arab Emirates
+- Bermuda
+- Brunei
+- Bhutan
+- Cayman Islands
+- Fiji
+- Japan
+- Laos
+- Malaysia
+- Palau
+- Papua New Guinea
+- Solomon Islands
+- Taiwan
+- British Virgin Islands
+- Vietnam
+- Vanuatu
+- Samoa
+
+
+Cluster 4
+
+- Afghanistan
+- NA
+- Angola
+- Andorra
+- NA
+- American Samoa
+- French Southern Territories
+- Antigua & Barbuda
+- Burundi
+- Caribbean Netherlands
+- Bahamas
+- Belize
+- Barbados
+- Bouvet Island
+- Central African Republic
+- Cocos (Keeling) Islands
+- Cameroon
+- Congo - Kinshasa
+- Congo - Brazzaville
+- Cook Islands
+- Colombia
+- Comoros
+- Cuba
+- Christmas Island
+- Djibouti
+- Dominica
+- Ecuador
+- Egypt
+- Eritrea
+- Western Sahara
+- Ethiopia
+- Falkland Islands
+- Faroe Islands
+- Micronesia (Federated States of)
+- Gabon
+- Guernsey
+- Gibraltar
+- Guadeloupe
+- Gambia
+- Equatorial Guinea
+- Grenada
+- Greenland
+- French Guiana
+- Guam
+- Guyana
+- Heard & McDonald Islands
+- Haiti
+- Isle of Man
+- British Indian Ocean Territory
+- Iraq
+- Jamaica
+- Jersey
+- Jordan
+- Kenya
+- Kiribati
+- St. Kitts & Nevis
+- Liberia
+- Libya
+- St. Lucia
+- Liechtenstein
+- Lesotho
+- Monaco
+- Madagascar
+- Maldives
+- Marshall Islands
+- Northern Mariana Islands
+- Mauritania
+- NA
+- Martinique
+- Malawi
+- Mayotte
+- Namibia
+- New Caledonia
+- Norfolk Island
+- Nicaragua
+- Niue
+- Nauru
+- Oman
+- Pitcairn Islands
+- Peru
+- Puerto Rico
+- North Korea
+- French Polynesia
+- Qatar
+- Réunion
+- Sudan
+- South Georgia & South Sandwich Islands
+- St. Helena
+- Sierra Leone
+- San Marino
+- Somalia
+- St. Pierre & Miquelon
+- South Sudan
+- São Tomé & Príncipe
+- Suriname
+- Eswatini
+- Syria
+- Turks & Caicos Islands
+- Chad
+- Tokelau
+- Turkmenistan
+- Timor-Leste
+- Tonga
+- Tunisia
+- Tuvalu
+- Uzbekistan
+- Vatican City
+- St. Vincent & Grenadines
+- Venezuela
+- U.S. Virgin Islands
+- Wallis & Futuna
+- Yemen
+- Zimbabwe
+
+
+Cluster 5
+
+- Armenia
+- Austria
+- Bangladesh
+- Bolivia
+- Canada
+- Switzerland
+- Chile
+- China
+- Costa Rica
+- Cyprus
+- Greece
+- Guatemala
+- Hungary
+- Israel
+- Kazakhstan
+- Kuwait
+- Lebanon
+- Latvia
+- NA
+- North Macedonia
+- Malta
+- Netherlands
+- Norway
+- Portugal
+- Paraguay
+- Romania
+- Rwanda
+- Slovakia
+- Sweden
+- Seychelles
+- Tajikistan
+- Turkey
+- Tanzania
+- Uganda
+- Ukraine
+- South Africa
+- Zambia
+
+

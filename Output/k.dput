@@ -1,0 +1,4 @@
+list(withDC = structure(c(26L, 22L, 22L, 6L, 5L, 5L), dim = 3:2, dimnames = list(
+    c("1", "2", "3"), c("level_0", "level_1"))), woutDC = structure(c(20L, 
+11L, 22L, 6L, 5L, 5L), dim = 3:2, dimnames = list(c("1", "2", 
+"3"), c("level_0", "level_1"))))
