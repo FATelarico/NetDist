@@ -501,7 +501,7 @@ plt_meso <- lapply(1:ncol(clu), function(t){
   
   ## 8.5 Plot by period ####
   png(width = 768*1.5, height = 1024*2, bg = "transparent", type = "cairo-png", 
-      filename = paste0('./Figures/meso_t', t, '.png'))
+      filename = paste0('./Figures/orig_t', t, '.png'))
   igraph.plotting(G, lyt, angle, vertex.label.cex = 1.5)
   dev.off()
   

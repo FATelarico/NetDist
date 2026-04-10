@@ -391,20 +391,21 @@ ggplot2_palette <- c(lightgrey = tryCatch(ggsci::pal_lancet()(9)[8],
                   dput(box_plt, './Code/Output/box_plt.dput')
                 }
                 dir.create('./Figures', FALSE)
+                box_plt2 <- box_plt[box_plt$i!='logged', ]
                 pdf('./Figures/01_BoxPlots.pdf')
-                ggplot2::ggplot(box_plt, ggplot2::aes(x = x, y = 1))+
+                ggplot2::ggplot(box_plt2, ggplot2::aes(x = x, y = 1))+
                   ggplot2::geom_boxplot(
                     fill = '#ffffffff', color = ggsci::pal_uchicago()(9)[2],
-                    linewidth = .25, size = .5
+                    linewidth = .25, size = .5*1.25
                   )+
                   ggplot2::geom_violin(alpha = .25,
                                        fill = ggsci::pal_uchicago()(9)[3],
                                        color = ggsci::pal_uchicago()(9)[2],
-                                       linewidth = .25)+
+                                       linewidth = .25*1.25)+
                   ggplot2::facet_grid(t ~ i, scales = 'free_x')+
                   ggplot2::xlab('')+
                   ggplot2::scale_y_continuous('', breaks = NULL)+
-                  ggthemes::theme_tufte()+
+                  ggthemes::theme_tufte(base_size = 11*1.25)+
                   ggplot2::theme(
                     axis.text.x = ggplot2::element_text(angle = 90,
                                                         hjust = 1, vjust = .5)
