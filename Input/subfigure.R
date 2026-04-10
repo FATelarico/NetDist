@@ -62,7 +62,7 @@ ColourBox <- function(
   }
   paste0('\\', ifelse(full_page, 'colorboxtextFullpage', 'colorboxtext'),
          '[', colour, ']{', margin_lx, '}{', margin_rx, '}{',
-        margin_tb, '}{', title, '}{', label, '}{')|>
+         margin_tb, '}{', title, '}{', label, '}{')|>
     paste(sep = '\n', paste0('\t', text), '}')|> cat()
 }
 
@@ -70,9 +70,9 @@ ColourBox <- function(
 set_notation <- function(set_letter, elements_letter = tolower(set_letter),
                          one_subscript = TRUE, fun = 'mathcal',
                          delim = c('\\{', '\\}'), wrap = TRUE,
-                          i = if(one_subscript){'i'}else{c('i', 'j')},
-                          card = if(one_subscript){'n'}else{c('n', 'm')},
-                          order_matters = ifelse(one_subscript, FALSE, TRUE)){
+                         i = if(one_subscript){'i'}else{c('i', 'j')},
+                         card = if(one_subscript){'n'}else{c('n', 'm')},
+                         order_matters = ifelse(one_subscript, FALSE, TRUE)){
   stopifnot(length(i)>=ifelse(one_subscript, 1, 2))
   if(one_subscript)order_matters <- FALSE
   subscripts <- if(one_subscript){
